@@ -1,5 +1,5 @@
 jwt에 대한 자세한 정보는 블로그에 작성 해놓았습니다.<br>
-[jwt 블로그 링크]([http://www.google.co.kr](https://velog.io/@qmdch1/JWT%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-%EC%95%8C%EA%B3%A0-%EA%B3%84%EC%8B%AD%EB%8B%88%EA%B9%8C))
+[jwt 블로그 링크](https://velog.io/@qmdch1/JWT%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-%EC%95%8C%EA%B3%A0-%EA%B3%84%EC%8B%AD%EB%8B%88%EA%B9%8C)
 
 # 개념을 알았으니 JWT 소스를 구현 해봅시다.
 ```
